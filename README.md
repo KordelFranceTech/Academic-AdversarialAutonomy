@@ -1,4 +1,4 @@
-# AdversarialAutonomy
+# Adversarial Autonomy
 Planning in an adversarial environment using the CLIPS programming language and PDDL.
 
 ### Description: 
@@ -47,7 +47,7 @@ ________________________________________________________________________________
     |                         |
     |  *   *   *   *   *   *  |
     |                         |
-    |  *   W   *   W   G   *  |
+    |  *   W   *   W   *   G  |
      -------------------------
 
 
