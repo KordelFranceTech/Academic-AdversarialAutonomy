@@ -57,13 +57,13 @@ ________________________________________________________________________________
 Robot goals: collect coins (the reward) before the Wumpuses do OR get to the goal at the
   opposite end of the map. Avoid being eaten by Wumpuses.
 
- Wumpus (adversary) goal: try to eat the robot (the primary reward) and stop it from moving
+ Wumpus (adversary) goals: try to eat the robot (the primary reward) and stop it from moving
   to the goal position (G), collecting coins (the secondary reward) along the way.
 
 _____________________________________________________________________________________________
 
  ### Note: 
- *There are some commented out actions below. They are left in for a reason.
+ *There are some commented out actions in the program. They are left in for a reason.
  Uncomment those actions to see the importance of salience in creating a successful
  planner. The planner gives some very erratic results when those code blocks are included
  because my saliences are improperly configured. I left the error in because it is a good
