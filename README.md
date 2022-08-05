@@ -36,17 +36,19 @@ ________________________________________________________________________________
  W = Wumpus
  G = Goal
 
-     ---------------------
-    |  R   *   *   *   *  |
-    |                     |
-    |  *   *   *   *   *  |
-    |                     |
-    |  *   *   *   *   *  |
-    |                     |
-    |  *   *   *   *   *  |
-    |                     |
-    |  *   W   *   W   G  |
-     ---------------------
+     -------------------------
+    |  R   *   *   *   *   *  |
+    |                         |
+    |  *   *   *   *   *   *  |
+    |                         |
+    |  *   *   *   *   *   *  |
+    |                         |
+    |  *   *   *   *   *   *  |
+    |                         |
+    |  *   *   *   *   *   *  |
+    |                         |
+    |  *   W   *   W   G   *  |
+     -------------------------
 
 
 _____________________________________________________________________________________________
@@ -60,7 +62,8 @@ Robot goals: collect coins (the reward) before the Wumpuses do OR get to the goa
 
 _____________________________________________________________________________________________
 
- Note: There are some commented out actions below. They are left in for a reason.
+ ### Note: 
+ *There are some commented out actions below. They are left in for a reason.
  Uncomment those actions to see the importance of salience in creating a successful
  planner. The planner gives some very erratic results when those code blocks are included
  because my saliences are improperly configured. I left the error in because it is a good
@@ -68,6 +71,6 @@ ________________________________________________________________________________
  within a plannner. The robot arrives at the goal (beating the Wumpuses) with a probability
  of only around 10%. There is definite room for optimization and some opportunity to
  incorporate a mediation algorithm such as MEDIATOR from Kolodner and Simpson (1989). Again,
- there is definite room to optimize the salience.
+ there is definite room to optimize the salience.*
 
 _____________________________________________________________________________________________
