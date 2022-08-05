@@ -3,8 +3,8 @@ Planning in an adversarial environment using the CLIPS programming language and 
 
 ### Description: 
 This program defines rules for a robot to navigate the Wumpus World and
-receive a reward. The Wumpus World is a toy problem commonly referred to in all editions
-of "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig where
+receive a reward. The Wumpus World is a toy problem commonly referred to in editions
+of *Artificial Intelligence: A Modern Approach* by Stuart Russell and Peter Norvig where
 "Wumpuses" are adversarial agents acting against some other agent seeking a reward. This
 program was built using the CLIPS programming language.
 
