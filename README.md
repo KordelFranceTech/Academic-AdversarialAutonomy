@@ -1,20 +1,21 @@
 # AdversarialAutonomy
 Planning in an adversarial environment using the CLIPS programming language and PDDL.
 
-### Description: This program defines rules for a robot to navigate the Wumpus World and
-  receive a reward. The Wumpus World is a toy problem commonly referred to in all editions
-  of "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig where
-  "Wumpuses" are adversarial agents acting against some other agent seeking a reward. This
-  program was built using the CLIPS programming language.
+### Description: 
+This program defines rules for a robot to navigate the Wumpus World and
+receive a reward. The Wumpus World is a toy problem commonly referred to in all editions
+of "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig where
+"Wumpuses" are adversarial agents acting against some other agent seeking a reward. This
+program was built using the CLIPS programming language.
 
-  PDDL (Planning Domain Definition Language) defines a notation used to establish common
-  conventions for AI planners. My interest in planners largely comes from my interest in RL
-  as well as their use in robotic navigation and multiagent autonomy. While this CLIPS
-  program does not resemble a PDDL planner in its exact form, maintaining parity with PDDL
-  principles was the goal.
+PDDL (Planning Domain Definition Language) defines a notation used to establish common
+conventions for AI planners. My interest in planners largely comes from my interest in RL
+as well as their use in robotic navigation and multiagent autonomy. While this CLIPS
+program does not resemble a PDDL planner in its exact form, maintaining parity with PDDL
+principles was the goal.
 
-  The goal of this program is purely investigational and is not intended to establish any
-  sort of claims on its validity in performing "state-of-the-art" planning work.
+The goal of this program is purely investigational and is not intended to establish any
+sort of claims on its validity in performing "state-of-the-art" planning work.
 
 _____________________________________________________________________________________________
 
