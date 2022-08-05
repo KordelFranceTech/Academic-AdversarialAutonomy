@@ -22,10 +22,9 @@ ________________________________________________________________________________
 ### To Run
  * set the path such that the directory points to the one where this file is located
  * run the following commands:
-    (load "WumpusWorld_KFrance.clp")
-    
-    (reset)
-    (run)
+    * (load "WumpusWorld_KFrance.clp")
+    * (reset)
+    * (run)
     
 
 
